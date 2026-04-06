@@ -33,4 +33,4 @@ O que vou ter que fazer para realizar os objetivos?
 
 Pesquisa com resultados
 teoricos (propor teste)
-teorico-pratico (com validação)
+teorico-pratico (com validação) empirica com experimentos e um resultado qualitativa ou quantitativa
