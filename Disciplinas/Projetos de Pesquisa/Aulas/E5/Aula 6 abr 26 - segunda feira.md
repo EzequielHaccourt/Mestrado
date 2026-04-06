@@ -25,3 +25,12 @@ O que destacar na justificativa? (tentar definir a justificativa antes do proble
     - usar evidencia de trabalhos anteriores
 
 ** Nao deixar o problema muito aberto (escopo realista) o que vier a mais melhor
+
+
+
+O que vou ter que fazer para realizar os objetivos?
+
+
+Pesquisa com resultados
+teoricos (propor teste)
+teorico-pratico (com validação)
