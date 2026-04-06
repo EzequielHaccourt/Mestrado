@@ -24,3 +24,4 @@ O que destacar na justificativa? (tentar definir a justificativa antes do proble
     - importancia do tema e impacto 
     - usar evidencia de trabalhos anteriores
 
+** Nao deixar o problema muito aberto (escopo realista) o que vier a mais melhor
