@@ -82,3 +82,18 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
      estabelecer sequencia lógica
      permitir monitoramento
 - referencias (automatico pelo latex)
+
+
+
+Dicas de escrita
+
+
+Coesão sentenças / paragrafo
+- Uma sentença deve expressar uma ideia clara
+- Um paragrafo é um conjunto de sentenças
+    - As sentenças precisam ter sequencia e coesao
+- Da mesma forma os paragrafos precisam alinhamento
+    - Sequencia e coesão
+- Reler sentenças/paragrafos
+    -   Eles dão a sequencia desejada para alinhas ideias
+- Bibliografia complementar é possivel mas não deve ser usada como base para o mestrado (wikipédia e outras fontes similares)
