@@ -39,9 +39,14 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
 
 **  ESCRITA DE PLANO DE TRABALHO ** 8 a 10 páginas
 - titulo
+    - ( primeira forma de de chamar atenção para seu trabalho ) max 3 linhas
+    - pode ser um BOM DELIMITADOR DE ESCOPO
 - resumo (abstract) intrudozir o problema com 2 ou 3 sentenças
+    - introduzir e motivar o trabalho
+    - prenter e entregar o resultado de cara (não é romance pra deixar pro final)
+
 -  introdução
-    - justificativa / motivação
+    - justificativa / motivação (mostrar que realmente é relevante, conectar o contexto geral ao tema especifico)
     - hipotese de pesquisa (explicar o que ainda não foi feito)
     - objetivos ()
     - limitação de escopo
