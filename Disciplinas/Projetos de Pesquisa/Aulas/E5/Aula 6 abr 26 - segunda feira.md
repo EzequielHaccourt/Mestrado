@@ -71,5 +71,11 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
         - proposta hibrida (combinação de dois estudos para validar a hipotese)
     - analise de dados usando método
 - Resultados esperados (contribuições) 
-- Cronograma ()
+    - decorre da realização dos objetivos
+    - o que possivelmente mudaria no mundo se eu atingir os objetivos
+- Cronograma (usar grafico de gant)
+    - definir o tempo de execução de cada etapa
+    - definir o escopo e decoimpolo em tarefas
+    - identificar e organizar as tarefas
+     - garantir que nada seja esquecido
 - referencias 
