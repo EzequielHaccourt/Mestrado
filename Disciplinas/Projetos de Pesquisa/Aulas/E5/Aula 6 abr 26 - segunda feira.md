@@ -67,7 +67,7 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
     - detalhamento dos procedimentos que serão realizados para desenvolver a pesquisa e testar a hipótese
     - revisão bibliografica
     - contrução de bases
-    - implementação
+    - implementação ( Buscar se os artigos tem implementação no github )
         - proposta hibrida (combinação de dois estudos para validar a hipotese)
     - analise de dados usando método
 - Resultados esperados (contribuições) 
