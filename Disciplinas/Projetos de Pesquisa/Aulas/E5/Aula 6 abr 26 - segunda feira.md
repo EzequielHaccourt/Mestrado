@@ -1,99 +1,51 @@
+# Plano de Trabalho: Projeto de Pesquisa (Notas de Aula)
 
+[cite_start]Este documento organiza as diretrizes para a elaboração de um plano de trabalho acadêmico, integrando os conceitos apresentados nos slides da UFPR[cite: 1, 3, 4].
 
-[Slide: e05-plano-de-trabalho.pdf](Disciplinas/Projetos%20de%20Pesquisa/Aulas/E5/e05-plano-de-trabalho.pdf)
+---
 
-1) - Definir objetivos
-    - Definir tema
-    - Encontrar o  problema de pesquisa ( av1, av2 e av3 para encontrar o que ainda falta ) 
-    - Está relacionado com minha perspectiva de trabalho?
-    - Como vou formular o objetivo? através de pesquisa relacionada
-    - Definir o escopo do que será feito
-    - pesquisa vs tecnico
-    - Após definir o objetivo principal, focar nos objetivos especificos para chegar no principal
+## 1. Definição de Objetivos e Problema
+[cite_start]O planejamento deve seguir um caminho lógico para transformar uma ideia em um projeto científico viável[cite: 25].
 
+* [cite_start]**Escolha do Objetivo**: O processo inicia no **Tema**, passa pelo **Problema de Pesquisa** e pela **Perspectiva Profissional** até chegar na **Formulação do Objetivo**[cite: 25, 26, 27, 28].
+* [cite_start]**Objetivo Geral**: Deve resumir o resultado esperado, ser diretamente verificável ao fim da investigação e confirmar a hipótese[cite: 305, 308, 309].
+* [cite_start]**Objetivos Específicos**: Funcionam como passos intermediários e concretos para atingir o objetivo principal[cite: 319, 322].
+    * [cite_start]**Atenção**: Não devem ser confundidos com etapas meramente metodológicas, como "coletar dados" ou "implementar protótipo"[cite: 329, 330, 331].
+* [cite_start]**Delimitação**: É necessário definir o escopo de forma realista, identificando o que não será avaliado ou testado[cite: 76, 86].
 
+## 2. Hipótese e Justificativa
+[cite_start]A hipótese diferencia o trabalho científico de uma simples entrega técnica[cite: 38].
 
-2) - Hipotese (tese)  afirmação sobre o tema, quando o objetivo pode ser mensurado e provado, ou não! (tem que ter contribuição para publicar)
+* [cite_start]**Hipótese (A Tese)**: É uma afirmação (não uma pergunta) que guia a pesquisa[cite: 36, 238]. [cite_start]Representa uma teoria provável ainda não demonstrada[cite: 240].
+* [cite_start]**Justificativa**: Argumentação sobre a relevância do tema e da hipótese[cite: 45, 47].
+    * [cite_start]Deve apresentar evidências (trabalhos anteriores ou dados preliminares) de que a linha de pesquisa pode levar a bons resultados[cite: 54, 55].
+    * [cite_start]É a resposta para: "por que a banca deve investir no seu projeto?"[cite: 49].
 
-Justificativa
-pq é importante resolver este problema? porque tem relevancia?
+## 3. Estrutura do Plano de Trabalho (8 a 10 páginas)
+[cite_start]Conforme as diretrizes, os elementos essenciais incluem[cite: 163, 165]:
 
-pq a barca vai investir e aprovar o projeto?
+### Elementos Pré-Textuais e Introdução
+* [cite_start]**Título**: Deve atrair o leitor, delimitar o escopo e apresentar a principal contribuição de forma sintética[cite: 187, 190, 191].
+* [cite_start]**Resumo**: Deve introduzir e motivar o trabalho em 2 a 3 sentenças, apresentando o problema e a proposta de forma direta[cite: 203, 204, 207].
+* [cite_start]**Introdução**: Contextualiza o leitor e justifica a relevância do problema[cite: 217, 221]. [cite_start]Deve conectar o contexto geral ao tema específico suavemente[cite: 226].
 
-O que destacar na justificativa? (tentar definir a justificativa antes do problema)
-    - importancia do tema e impacto 
-    - usar evidencia de trabalhos anteriores
+### Fundamentação e Metodologia
+* [cite_start]**Trabalhos Relacionados**: Discussão comentada de artigos e materiais relevantes[cite: 341, 343].
+    * [cite_start]**Regra**: Não "reinventar a roda"[cite: 346].
+    * [cite_start]**Síndrome da Intersecção Esquecida**: Evitar focar apenas na ferramenta e na área de aplicação, esquecendo de pesquisar quem já tentou unir ambas anteriormente[cite: 357, 360].
+* [cite_start]**Metodologia**: Detalhamento dos procedimentos para testar a hipótese[cite: 364].
+    * [cite_start]**Pesquisa Teórica**: Foco em revisão e novas ideias sem artefatos novos[cite: 103, 107].
+    * [cite_start]**Pesquisa Teórico-Prática (Empírica)**: Produz um artefato (método, modelo ou sistema)[cite: 113, 121].
+    * [cite_start]**Abordagem**: Pode ser Quantitativa (classificação em números) ou Qualitativa (aspectos subjetivos e complexos)[cite: 124, 126, 142, 148].
 
-** Nao deixar o problema muito aberto (escopo realista) o que vier a mais melhor
+### Cronograma e Resultados
+* [cite_start]**Resultados Esperados**: Impactos ou mudanças que o autor espera que ocorram caso os objetivos sejam atingidos[cite: 379, 433]. [cite_start]Diferente dos objetivos, estes não são diretamente verificáveis ao final da pesquisa[cite: 387].
+* [cite_start]**Cronograma**: Organização das etapas no tempo, definindo prazos e sequência lógica das tarefas[cite: 404, 417, 420].
+* [cite_start]**Referências**: Devem ser geradas preferencialmente via LaTeX para garantir a automação e conferência correta[cite: 182, 435].
 
+---
 
-
-O que vou ter que fazer para realizar os objetivos?
-
-
-Pesquisa com resultados
-teoricos (propor teste)
-teorico-pratico (com validação) empirica com experimentos e um resultado qualitativa ou quantitativa
-
-
-
-**  ESCRITA DE PLANO DE TRABALHO ** 8 a 10 páginas
-- titulo
-    - ( primeira forma de de chamar atenção para seu trabalho ) max 3 linhas
-    - pode ser um BOM DELIMITADOR DE ESCOPO
-- resumo (abstract) intrudozir o problema com 2 ou 3 sentenças
-    - introduzir e motivar o trabalho
-    - prenter e entregar o resultado de cara (não é romance pra deixar pro final)
-
--  introdução (4 a 6 sentenças)
-    - justificativa / motivação (mostrar que realmente é relevante, conectar o contexto geral ao tema especifico)
-    - hipotese de pesquisa (explicar o que ainda não foi feito)
-        - a hipotese é uma teoria provavel ainda nao demonstrada
-        - qual a afirmação?
-        - lacunas obtidas do estado da arte
-        sumarizar o estudo em 3 a 4 sentenças
-    - objetivos ()
-        - apresentar o tema e delimitar o escopo
-        - demonstrar que a hipose x é verdadeira
-    - limitação de escopo
-- Revisão bibliografica
-    - referencial teorico
-    - trabalhos relacionados
-        - somente os melhores no estado da arte
-        - não reinventar a roda ler artigos para nao fazer o que ja fizeram
-        - usar trabalhos recentes como trabalhos relacionados (últimos 2 anos)
-
-- metodologia (como pretendo resolver)
-    - detalhamento dos procedimentos que serão realizados para desenvolver a pesquisa e testar a hipótese
-    - revisão bibliografica
-    - contrução de bases
-    - implementação ( Buscar se os artigos tem implementação no github )
-        - proposta hibrida (combinação de dois estudos para validar a hipotese)
-    - analise de dados usando método
-- Resultados esperados (contribuições) 
-    - decorre da realização dos objetivos
-    - o que possivelmente mudaria no mundo se eu atingir os objetivos
-- Cronograma (usar grafico de gant) (24 meses) (pode ser citado trabalhos seminais não referenciados no related works)
-    - definir o tempo de execução de cada etapa
-    - definir o escopo e decoimpolo em tarefas
-    - identificar e organizar as tarefas
-     - garantir que nada seja esquecido
-     estimar duração de cada tarefa
-     estabelecer sequencia lógica
-     permitir monitoramento
-- referencias (automatico pelo latex)
-
-
-
-Dicas de escrita
-
-
-Coesão sentenças / paragrafo
-- Uma sentença deve expressar uma ideia clara
-- Um paragrafo é um conjunto de sentenças
-    - As sentenças precisam ter sequencia e coesao
-- Da mesma forma os paragrafos precisam alinhamento
-    - Sequencia e coesão
-- Reler sentenças/paragrafos
-    -   Eles dão a sequencia desejada para alinhas ideias
-- Bibliografia complementar é possivel mas não deve ser usada como base para o mestrado (wikipédia e outras fontes similares)
+## 4. Dicas de Escrita Acadêmica
+* [cite_start]**Coesão**: Cada sentença deve expressar uma ideia clara[cite: 443].
+* [cite_start]**Estrutura de Parágrafo**: Conjunto de sentenças que precisam estabelecer sequência e alinhamento[cite: 445, 448, 449].
+* [cite_start]**Revisão**: Reler sentenças e parágrafos para garantir que a sequência desejada de ideias foi atingida[cite: 451, 452].
