@@ -61,7 +61,15 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
     - trabalhos relacionados
         - somente os melhores no estado da arte
         - não reinventar a roda ler artigos para nao fazer o que ja fizeram
+        - usar trabalhos recentes como trabalhos relacionados (últimos 2 anos)
+
 - metodologia (como pretendo resolver)
+    - detalhamento dos procedimentos que serão realizados para desenvolver a pesquisa e testar a hipótese
+    - revisão bibliografica
+    - contrução de bases
+    - implementação
+        - proposta hibrida (combinação de dois estudos para validar a hipotese)
+    - analise de dados usando método
 - Resultados esperados (contribuições) 
 - Cronograma ()
 - referencias 
