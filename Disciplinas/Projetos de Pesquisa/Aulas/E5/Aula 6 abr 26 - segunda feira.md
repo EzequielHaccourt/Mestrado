@@ -49,12 +49,18 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
     - justificativa / motivação (mostrar que realmente é relevante, conectar o contexto geral ao tema especifico)
     - hipotese de pesquisa (explicar o que ainda não foi feito)
         - a hipotese é uma teoria provavel ainda nao demonstrada
-        -  qual a afirmação?
+        - qual a afirmação?
+        - lacunas obtidas do estado da arte
+        sumarizar o estudo em 3 a 4 sentenças
     - objetivos ()
+        - apresentar o tema e delimitar o escopo
+        - demonstrar que a hipose x é verdadeira
     - limitação de escopo
 - Revisão bibliografica
     - referencial teorico
     - trabalhos relacionados
+        - somente os melhores no estado da arte
+        - não reinventar a roda ler artigos para nao fazer o que ja fizeram
 - metodologia (como pretendo resolver)
 - Resultados esperados (contribuições) 
 - Cronograma ()
