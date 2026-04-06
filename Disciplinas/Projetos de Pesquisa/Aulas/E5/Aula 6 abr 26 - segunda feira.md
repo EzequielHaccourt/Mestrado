@@ -34,3 +34,21 @@ O que vou ter que fazer para realizar os objetivos?
 Pesquisa com resultados
 teoricos (propor teste)
 teorico-pratico (com validação) empirica com experimentos e um resultado qualitativa ou quantitativa
+
+
+
+**  ESCRITA DE PLANO DE TRABALHO ** 8 a 10 páginas
+- titulo
+- resumo (abstract) intrudozir o problema com 2 ou 3 sentenças
+-  introdução
+    - justificativa / motivação
+    - hipotese de pesquisa (explicar o que ainda não foi feito)
+    - objetivos ()
+    - limitação de escopo
+- Revisão bibliografica
+    - referencial teorico
+    - trabalhos relacionados
+- metodologia (como pretendo resolver)
+- Resultados esperados (contribuições) 
+- Cronograma ()
+- referencias 
