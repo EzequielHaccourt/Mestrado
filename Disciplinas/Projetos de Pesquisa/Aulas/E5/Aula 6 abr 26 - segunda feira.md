@@ -45,9 +45,11 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
     - introduzir e motivar o trabalho
     - prenter e entregar o resultado de cara (não é romance pra deixar pro final)
 
--  introdução
+-  introdução (4 a 6 sentenças)
     - justificativa / motivação (mostrar que realmente é relevante, conectar o contexto geral ao tema especifico)
     - hipotese de pesquisa (explicar o que ainda não foi feito)
+        - a hipotese é uma teoria provavel ainda nao demonstrada
+        -  qual a afirmação?
     - objetivos ()
     - limitação de escopo
 - Revisão bibliografica
