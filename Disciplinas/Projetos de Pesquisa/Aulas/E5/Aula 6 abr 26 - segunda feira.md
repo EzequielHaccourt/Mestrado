@@ -73,9 +73,12 @@ teorico-pratico (com validação) empirica com experimentos e um resultado quali
 - Resultados esperados (contribuições) 
     - decorre da realização dos objetivos
     - o que possivelmente mudaria no mundo se eu atingir os objetivos
-- Cronograma (usar grafico de gant)
+- Cronograma (usar grafico de gant) (24 meses) (pode ser citado trabalhos seminais não referenciados no related works)
     - definir o tempo de execução de cada etapa
     - definir o escopo e decoimpolo em tarefas
     - identificar e organizar as tarefas
      - garantir que nada seja esquecido
-- referencias 
+     estimar duração de cada tarefa
+     estabelecer sequencia lógica
+     permitir monitoramento
+- referencias (automatico pelo latex)
